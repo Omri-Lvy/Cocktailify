@@ -42,7 +42,7 @@ Before you begin, ensure you have the following installed:
 Clone this repository and all its submodules using:
 
 ```bash
-    git clone --recurse-submodules https://github.com/yourusername/MainRepo.git
+    git clone --recurse-submodules git@github.com:Omri-Lvy/Cocktailify.git
 ```
 
 If you have already cloned the repository without submodules, initialize and update them with:
