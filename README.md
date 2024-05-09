@@ -83,7 +83,6 @@ If you have already cloned the repository without submodules, initialize and upd
 ```bash
     cd client
     npm install
-    npm start
 ```
 
 2. (optional) Create a `.env` file in the client directory with your configurations configurations:
