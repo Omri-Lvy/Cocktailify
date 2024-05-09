@@ -119,7 +119,7 @@ To ensure your local repository stays current with the main project repository, 
    Once you have fetched the updates, you can merge them into your current branch to keep your local repository up-to-date.
 
 ```bash
-    git merge origin/main  # Replace 'main' with the appropriate branch name if different
+    git merge origin/main
 ```
 
 ### Updating Submodules
