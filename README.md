@@ -4,7 +4,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/Omri-Lvy/Cocktailify)
 ![GitHub forks](https://img.shields.io/github/forks/Omri-Lvy/Cocktailify)
 ![GitHub stars](https://img.shields.io/github/stars/Omri-Lvy/Cocktailify)
-![GitHub license](https://img.shields.io/github/Omri-Lvy/Cocktailify)
+![GitHub license](https://img.shields.io/github/license/Omri-Lvy/Cocktailify)
 ![Python version](https://img.shields.io/badge/python-3.x-blue.svg)
 ![React version](https://img.shields.io/badge/react-18.2.0-blue.svg)
 
