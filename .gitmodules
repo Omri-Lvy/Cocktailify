@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:Omri-Lvy/Cocktailify-Server.git
+[submodule "client"]
+	path = client
+	url = git@github.com:Omri-Lvy/Cocktailify-Client.git
