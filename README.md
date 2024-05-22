@@ -12,7 +12,7 @@ Welcome to **Cocktailify**, an exciting project developed for the Development Cl
 
 This project serves as an exemplary model, illustrating the end goal of what students can achieve with the skills they acquire in the club. It demonstrates a practical application of web development and database management techniques, showcasing a fully functional web-based application.
 
-![Status](https://img.shields.io/badge/status-in_development-orange.svg)
+![Status](https://img.shields.io/badge/status-production-brightgreen.svg)
 
 ## Table of Contents
 
@@ -42,7 +42,7 @@ Before you begin, ensure you have the following installed:
 Clone this repository and all its submodules using:
 
 ```bash
-    git clone --recurse-submodules git@github.com:Omri-Lvy/Cocktailify.git
+    git clone --recurse-submodules https://github.com/Omri-Lvy/Cocktailify.git
 ```
 
 If you have already cloned the repository without submodules, initialize and update them with:
